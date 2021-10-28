@@ -202,7 +202,7 @@ class _SearchPageState extends State<SearchPage> {
                              style: TextStyle(
                                fontWeight: FontWeight.bold,
                                fontSize: 22,
-                               fontFamily: 'Zen'
+                               //fontFamily: 'Zen'
                              ),
                              ),
                              color: Colors.grey.withOpacity(0.3),
